@@ -1,0 +1,7 @@
+1. Abrir o git bash na pasta desejada e escrever: git clone + código HTTPS (do repositório criado no GitHub);
+2. escrever: cd + nome do repositório do GitHub (pode usar o tab para ajudar);
+3. escrever: git status (para verificar)
+4. escrever: git add . ou -A;
+5. escrever: git commit -m "mensagem coerente"
+6. escrever: git status (para verificar);
+7. escrever: git push origin main
