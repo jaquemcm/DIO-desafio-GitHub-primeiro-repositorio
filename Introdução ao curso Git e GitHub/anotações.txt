@@ -1,0 +1,14 @@
+Markdown(.md) é a forma mais humana/simples para escrever um arquivo HTML 
+
+comando para listar: dir
+comando para navegar entre as pastas: cd /ou cd nome da parta /> dir
+comando para sair 1 nível: cd..
+comando para limpeza cls ou ctrl+l
+comando para criar uma pasta: mkdir nome da pasta
+comando para criar arquivo dentro da pasta: echo palavra > palavra.txt
+comando para deletar arquivo: del nome da pasta
+comando para navegar no histórico: seta para cima 
+comando para deletar reprositório da pasta: rmdir nome da pasta /S /Q
+
+
+atalho: primeira ou metade do nome da pasta + tab
